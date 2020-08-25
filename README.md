@@ -1,6 +1,6 @@
 # webpack-react
 
-This repository is include all the packages and plugins required to convert a react project to browser readable javascript. It is somewhat like `create-react-app` behaves and bundles the files to readable javascript but this is more custom way and we get to know the different packages required, so that it is more our way then their way.
+This repository is include all the packages and plugins required to convert a react project to browser readable javascript. It is somewhat like [`create-react-app`] behaves and bundles the files to readable javascript but this is more custom way and we get to know the different packages required, so that it is more our way then their way.
 
 ## Points
 
@@ -41,3 +41,4 @@ npm run help
 
 [`HtmlWebpackPlugin`]: https://webpack.js.org/plugins/html-webpack-plugin
 [`packageGuide.md`]:   https://github.com/adarsh1997shah/webpack-react/blob/master/packageGuide.md
+[`create-react-app`]:  https://create-react-app.dev
