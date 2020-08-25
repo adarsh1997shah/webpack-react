@@ -1,13 +1,20 @@
-## Its a list of packages guide that are used in package.json file.It also explains the need to use it.
+# Webpack Packages
+Its a list of packages guide that are used in package.json file.It also explains the need to use it.
 
-* webpack
-> To use webpack main functionalities.
 
-* webpack-cli
-> To use webpack for commad line interface. 
+## Packs
 
-* babel-loader
-> This package allows transpiling JavaScript files using Babel.
+* [`webpack`] To use webpack main functionalities.
+* [`webpack-cli`] To use webpack for commad line interface. 
+* [`cross-env`] This package makes access the environment variables to cross platform.
+* [`sass`] This package installs sass components.
+
+## Loaders
+
+* [`babel-loader`] This package allows transpiling JavaScript files using Babel.
+* [`css-loader`] This package reads style files in string format and passes it to style loader.
+* [`style-loader`] This package reads appends inline style files to our html files.
+* [`sass-loader`] This package loads .scss file.
 
 * babel/core
 > This package required by babel-loader, containe all babe functionalties
@@ -18,20 +25,12 @@
 * @babel/preset-env
 > This package converts es6 into es5.
 
-* css-loader, style-loader
-> This package appends inline style to our html files.
 
 * mini-css-extract-plugin
 > This package extracts css when bundling up.
 
 * @babel/polyfill, corejs@3
 > To extend features for browser that are not supported.
-
-* cross-env
-> This package makes access the environment variables to cross platform.
-
-* sass, sass-loader
-> This package install sass component for sass loader to load .scss file.
 
 * file-loader
 > This package provides resolves import/require() on a file into a url and emits the file into the output directory.
@@ -50,3 +49,13 @@
 
 * cssnano
 > This postcss plugin helps in removing extra spaces and indents in our output css file.
+
+
+[`webpack`]:      https://webpack.js.org
+[`webpack-cli`]:  https://webpack.js.org/api/cli
+[`babel-loader`]: https://github.com/babel/babel-loader
+[`css-loader`]: https://webpack.js.org/loaders/css-loader
+[`style-loader`]: https://webpack.js.org/loaders/style-loader
+[`cross-env`]: https://www.npmjs.com/package/cross-env
+[`sass`]: https://sass-lang.com
+[`sass-loader`]: https://webpack.js.org/loaders/sass-loader
