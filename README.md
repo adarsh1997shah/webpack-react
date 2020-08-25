@@ -10,5 +10,28 @@ This repository is include all the packages and plugins required to convert a re
 * The `publicPath` in webpack is set localhost.
 * If images are added, they are loacted in seperate folder(images folder).
 
+## npm scripts
+
+*Starting a dev server*
+```
+npm start
+```
+*Development mode*
+```
+npm run webpack
+```
+*Production mode*
+```
+npm run prod
+```
+*Watch changes for files*
+```
+npm run watch
+```
+*For any webpack command help*
+```
+npm run help
+```
+
 ## Suggestions
 * Any type of suggestion will be greatly appreciated.
