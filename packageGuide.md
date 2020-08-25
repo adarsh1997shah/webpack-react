@@ -18,6 +18,7 @@ Its a list of packages guide that are used in package.json file.It also explains
 * [`sass-loader`] This package loads .scss file.
 * [`postcss-loader`] This package helps to use autoprefixer plugin.
 * [`file-loader`] This package provides resolves import/require() on a file into a url and emits the file into the output directory.
+* [`uglifyjs-webpack-plugin`] This pakacge removes etra spaces from js files thus making it uglify.
 
 
 ## Plugins
@@ -62,3 +63,4 @@ Its a list of packages guide that are used in package.json file.It also explains
 [`@babel/polyfill`]: https://babeljs.io/docs/en/babel-polyfill
 [`corejs@3`]: https://www.npmjs.com/package/core-js
 [`webpack-dev-server`]: https://webpack.js.org/configuration/dev-server
+[`uglifyjs-webpack-plugin`]: https://webpack.js.org/plugins/uglifyjs-webpack-plugin/
