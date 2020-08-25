@@ -4,7 +4,7 @@ This repository is include all the packages and plugins required to convert a re
 
 ## Points
 
-* To know about npm packages used go to `packageGuide.md` for reference.
+* To know about npm packages used go to [`packageGuide.md`] for reference.
 * This is not the only way but a overview to get to know more.
 * We can add packages and remove according to our project requirements.
 * The bundle files are created in dist folder ( editable ).
@@ -40,3 +40,4 @@ npm run help
 
 
 [`HtmlWebpackPlugin`]: https://webpack.js.org/plugins/html-webpack-plugin
+[`packageGuide.md`]:   https://github.com/adarsh1997shah/webpack-react/blob/master/packageGuide.md
