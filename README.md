@@ -39,4 +39,4 @@ npm run help
 * Any type of suggestion will be greatly appreciated.
 
 
-[`HtmlWebpackPlugin`] https://webpack.js.org/plugins/html-webpack-plugin
+[`HtmlWebpackPlugin`]: https://webpack.js.org/plugins/html-webpack-plugin

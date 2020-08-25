@@ -43,24 +43,24 @@ Its a list of packages guide that are used in package.json file.It also explains
 
 
 
-[`webpack`]:      https://webpack.js.org
-[`webpack-cli`]:  https://webpack.js.org/api/cli
-[`babel-loader`]: https://github.com/babel/babel-loader
-[`css-loader`]: https://webpack.js.org/loaders/css-loader
-[`style-loader`]: https://webpack.js.org/loaders/style-loader
-[`cross-env`]: https://www.npmjs.com/package/cross-env
-[`sass`]: https://sass-lang.com
-[`sass-loader`]: https://webpack.js.org/loaders/sass-loader
-[`postcss-loader`]: https://webpack.js.org/loaders/postcss-loader
-[`file-loader`]: https://webpack.js.org/loaders/file-loader
+[`webpack`]:                 https://webpack.js.org
+[`webpack-cli`]:             https://webpack.js.org/api/cli
+[`babel-loader`]:            https://github.com/babel/babel-loader
+[`css-loader`]:              https://webpack.js.org/loaders/css-loader
+[`style-loader`]:            https://webpack.js.org/loaders/style-loader
+[`cross-env`]:               https://www.npmjs.com/package/cross-env
+[`sass`]:                    https://sass-lang.com
+[`sass-loader`]:             https://webpack.js.org/loaders/sass-loader
+[`postcss-loader`]:          https://webpack.js.org/loaders/postcss-loader
+[`file-loader`]:             https://webpack.js.org/loaders/file-loader
 [`mini-css-extract-plugin`]: https://webpack.js.org/plugins/mini-css-extract-plugin
-[`clean-webpack-plugin`]: https://www.npmjs.com/package/clean-webpack-plugin
-[`autoprefixer`]: https://www.npmjs.com/package/autoprefixer
-[`cssnano`]: https://cssnano.co
-[`@babel/core`]: https://www.npmjs.com/package/@babel/core
-[`@babel/preset-react`]: https://babeljs.io/docs/en/babel-preset-react
-[`@babel/preset-env`]: https://babeljs.io/docs/en/babel-preset-env
-[`@babel/polyfill`]: https://babeljs.io/docs/en/babel-polyfill
-[`corejs@3`]: https://www.npmjs.com/package/core-js
-[`webpack-dev-server`]: https://webpack.js.org/configuration/dev-server
+[`clean-webpack-plugin`]:    https://www.npmjs.com/package/clean-webpack-plugin
+[`autoprefixer`]:            https://www.npmjs.com/package/autoprefixer
+[`cssnano`]:                 https://cssnano.co
+[`@babel/core`]:             https://www.npmjs.com/package/@babel/core
+[`@babel/preset-react`]:     https://babeljs.io/docs/en/babel-preset-react
+[`@babel/preset-env`]:       https://babeljs.io/docs/en/babel-preset-env
+[`@babel/polyfill`]:         https://babeljs.io/docs/en/babel-polyfill
+[`corejs@3`]:                https://www.npmjs.com/package/core-js
+[`webpack-dev-server`]:      https://webpack.js.org/configuration/dev-server
 [`uglifyjs-webpack-plugin`]: https://webpack.js.org/plugins/uglifyjs-webpack-plugin/
