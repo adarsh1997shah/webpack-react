@@ -10,6 +10,7 @@ This repository is include all the packages and plugins required to convert a re
 * The bundle files are created in dist folder ( editable ).
 * The `publicPath` in webpack is set localhost.
 * If images are added, they are loacted in seperate folder(images folder).
+* To see output maually set the path to output js and css file, if html file is outside the output folder else use `HtmlWebpackPlugin` to automatically link to these files and html file will be created in output folder.
 
 ## npm scripts
 
