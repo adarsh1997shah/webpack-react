@@ -4,6 +4,7 @@ This repository is include all the packages and plugins required to convert a re
 
 ## Points
 
+* To know about npm packages used go to `packageGuide.md` for reference.
 * This is not the only way but a overview to get to know more.
 * We can add packages and remove according to our project requirements.
 * The bundle files are created in dist folder ( editable ).
